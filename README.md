@@ -1,1 +1,2 @@
 # TheOdinProject
+In order to reignite my passion for programming, I have decided to follow The Odin Project (TOP) to refresh my mind with the basics of web development and to learn HTML, CSS, and Javascript.
